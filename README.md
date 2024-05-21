@@ -39,13 +39,13 @@ This project utilizes HTML, CSS, and JavaScript to create a responsive web appli
    - Navigate to the directory where you want to store the project.
    - Run the following command to clone the repository:
      ```
-     git clone https://github.com/Veerabhadrayyabelur/Responsive-News-API-Project.git
+     git clone https://github.com/Veerabhadrayyabelur/News_API.git
      ```
 
 2. **Navigate to Project Directory:**
    - Use the `cd` command to navigate into the project directory:
      ```
-     cd Responsive-News-API-Project
+     cd News_API
      ```
 
 3. **Open the Project:**
