@@ -18,23 +18,24 @@
                </p>           
              </div>
              <div class="options-menu">
-                <select class="inp">
-                    <option value="">Select country</option>
-                    <option value="India">India</option>
-                    <option value="Australia">Australia</option>
-                    <option value="America">America</option>
-
+                <select class="inp" id="country">
+                    <option value="">Select Country</option>
+                    <option value="in">India</option>
+                    <option value="us">USA</option>
+                    <option value="aus">Australia</option>
                 </select>
 
-                <select class="inp">
+                <select class="inp" id="category">
                     <option value="">Select Category</option>
-                    <option value="Technology">Technology</option>
-                    <option value="Sports">Sports</option>
-                    <option value="Politics">Politics</option>
+                    <option value="politics">Politics</option>
+                    <option value="business">Business</option>
+                    <option value="technology">Technology</option>
 
                 </select>
 
-                <button class="btn">
+                
+
+                <button class="btn" onclick="search()">
                     Get News
                 </button>
                 
@@ -52,8 +53,11 @@
         </div>
         <div class="news-article">
             <h3 class="title">Pollution alert in some cities</h3>
+ 
             <h4 class="author">-Lalit Kumar</h4>
             <p class="content">Lorem ipsum dolor, sit amet consectetur adipisicing elit. velit iusto hic amet incidunt possimus rLorem ipsum dolor, sit amet consectet</p>
+           
+            <a target="blank">
             <button class="view-more">Read full article</button>
         </div>
     </div>

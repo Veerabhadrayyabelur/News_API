@@ -1,5 +1,5 @@
 .header {
-    background-color:#efe7e7;
+    background-color:#30353c;
     height:50px;
     padding:0 50px;
     width: 100vw;
@@ -16,6 +16,7 @@
     .head_logo {
     display:flex;
     justify-content:center;
+    color: white;
     align-items:center;
     font-size:larger
     }
@@ -23,6 +24,7 @@
     .options-menu {
     width:50%;
     height:50px;
+    /* background-color: #000; */
     display:flex;
     justify-content:flex-end;
     align-items:center;
@@ -33,11 +35,13 @@
     .inp {
     height:30px;
     width:200px;
+    background-color: #30353c;
+    color: white;
     border-radius:10px
     }
     
     .btn {
-    height:30px;
+    height:40px;
     width:100px;
     border-radius:10px;
     text-transform:uppercase;
@@ -48,8 +52,8 @@
     }
     
     .news-section {
-        background-color: #000;
-        color: white;
+        background-color: #111315;
+        color:white;
     height:max-content;
     width:100vw;
     padding:30px 50px;
@@ -71,13 +75,13 @@
     .news-img {
     width:40%;
     background-color:#000;
-    height:250px
+    height:300px
     }
     
     .news-article {
     width:60%;
     height:250px;
-    padding-left:10px
+    padding-left:5px
     }
     
     .news-img>img {
