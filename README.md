@@ -25,7 +25,7 @@ This project utilizes HTML, CSS, and JavaScript to create a responsive web appli
 ## Features
 
 - Responsive design: The application is optimized for various screen sizes, providing a seamless user experience across devices.
-- News fetching: Utilizes a news API to fetch the latest news articles based on user preferences or predefined categories.
+- News fetching: Utilizes the [News API](https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=6538c9ed9de3408e8f49f083c3d55699) to fetch the latest news articles based on user preferences or predefined categories.
 - Dynamic content: Articles are dynamically loaded onto the page, allowing users to scroll through a continuous feed of news updates.
 - Customizable preferences: Users can customize their news feed by selecting preferred categories or topics.
 
@@ -34,7 +34,7 @@ This project utilizes HTML, CSS, and JavaScript to create a responsive web appli
 - HTML: Markup language used for structuring the web pages.
 - CSS: Stylesheets used for styling the web pages and making them visually appealing.
 - JavaScript: Programming language used for adding interactivity and functionality to the web application.
-- [Insert name of News API]: API used for fetching news articles. (Provide a link to the API documentation if applicable)
+- [News API](https://newsapi.org/docs/get-started): API used for fetching news articles.
 
 ## Setup Instructions
 
