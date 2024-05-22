@@ -17,7 +17,7 @@ This project utilizes HTML, CSS, and JavaScript to create a responsive web appli
 <img src="https://github.com/Veerabhadrayyabelur/News_API/blob/main/images/Screenshot%202024-05-22%20180536.png" alt="Demo Screenshot 1" style="margin-bottom: 20px;">
 <img src="https://github.com/Veerabhadrayyabelur/News_API/blob/main/images/Screenshot%202024-05-22%20180545.png" alt="Demo Screenshot 2">
 
-## Features
+
 
 
 
