@@ -13,7 +13,7 @@ This project utilizes HTML, CSS, and JavaScript to create a responsive web appli
 - [License](#license)
 
 ## Demo
-![Demo Screenshot 1](https://github.com/Veerabhadrayyabelur/News_API/blob/main/images/Screenshot%202024-05-22%20180536.png)
+![Demo Screenshot 1](https://github.com/Veerabhadrayyabelur/News_API/blob/main/images/Screenshot%202024-05-22%20180536.png) <br>
 ![Demo Screenshot 2](https://github.com/Veerabhadrayyabelur/News_API/blob/main/images/Screenshot%202024-05-22%20180545.png)
 
 ## Features
